@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/binaural-beat-generator/static/css/main.bbb18b6b.css",
+    "main.js": "/binaural-beat-generator/static/js/main.6be954a8.js",
+    "static/js/787.7efd31bd.chunk.js": "/binaural-beat-generator/static/js/787.7efd31bd.chunk.js",
+    "index.html": "/binaural-beat-generator/index.html",
+    "main.bbb18b6b.css.map": "/binaural-beat-generator/static/css/main.bbb18b6b.css.map",
+    "main.6be954a8.js.map": "/binaural-beat-generator/static/js/main.6be954a8.js.map",
+    "787.7efd31bd.chunk.js.map": "/binaural-beat-generator/static/js/787.7efd31bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbb18b6b.css",
+    "static/js/main.6be954a8.js"
+  ]
+}
